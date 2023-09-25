@@ -1,0 +1,91 @@
+﻿@page "/userroles/{userid}"
+
+<MudText Typo="Typo.h4" Color="Color.Dark">@userRoles.UserName</MudText>
+<div>
+   
+
+    <MudTable Items="@userRoles.SelectedUserRoles"
+              T="IdentityServerAccountJwt.Shared.Dtos.UsersRoles.SelectedUserRolesDto"
+              Dense="true"
+              Hover="true"
+              Bordered="true"
+              Striped="true"
+              Breakpoint="Breakpoint.MdAndDown"
+                FixedHeader
+              Height="50vh"
+              Style="margin-bottom:20px"
+              RowsPerPage="10">
+        <NoRecordsContent>
+            Roles Not Found
+        </NoRecordsContent>
+        <ToolBarContent>
+
+            <MudSpacer />
+            <MudSpacer />
+            <MudSpacer />
+        </ToolBarContent>
+        <HeaderContent>
+            <MudTh> Name</MudTh>
+            <MudTh>Is Selected</MudTh>
+         
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd>
+                @context.Name
+                </MudTd>
+
+            <MudTd>
+
+                <MudCheckBox @bind-Checked="@context.IsSelected" Label="@context.Name" Color="Color.Dark"></MudCheckBox>
+
+            </MudTd>
+           
+        </RowTemplate>
+        <PagerContent>
+
+
+        </PagerContent>
+    </MudTable>
+    <MudButton ButtonType="ButtonType.Submit"
+               Variant="Variant.Filled"
+                  FullWidth
+           Color=Color.Dark
+           OnClick="AddUserRole"
+    >
+
+        Save Role
+
+    </MudButton>
+</div>
+<style>
+    /*  #Active{
+                            background:#F5F5F5;
+                        }*/
+    .mud-table-striped .mud-table-container .mud-table-root .mud-table-body .mud-table-row:nth-of-type(even) {
+        background-color: #F1F1F1;
+    }
+
+        .mud-table-striped .mud-table-container .mud-table-root .mud-table-body .mud-table-row:nth-of-type(even) td {
+            color: #000
+        }
+
+        .mud-table-striped .mud-table-container .mud-table-root .mud-table-body .mud-table-row:nth-of-type(even):hover {
+            background-color: #F1F1F1;
+        }
+
+    .mud-table-root .mud-table-body:last-child .mud-table-row:last-child .mud-table-cell {
+        border-bottom: 1px solid #ffffff1e;
+    }
+
+    .mud-table-cell {
+        border: 1px solid #ffffff1e;
+    }
+
+    #info_button {
+        background: #17a2b8;
+    }
+
+        #info_button span.mud-button-label {
+            color: #fff;
+        }
+</style>

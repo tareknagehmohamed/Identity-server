@@ -1,0 +1,93 @@
+﻿@page "/getuserbyname/{Username}"
+
+
+        <MudText Typo="Typo.h6">
+            <MudStack Row="true">
+                <MudIcon Color="Color.Info" Icon="@Icons.Material.Filled.Info" Class="mr-3 mb-n1" />
+                <p Style="font-weight:bold">@applicationUser.UserName Info</p>
+            </MudStack>
+        </MudText>
+
+
+            <MudGrid Spacing="1">
+                <MudItem xs="12" sm="12" md="12">
+                    <MudPaper Elevation="SectionElevationLevel" Class=" pa-3">
+                        <MudStack Row="true">
+                            <MudText Typo="TextTypo" Class="SectionHeader">
+                               UserName:
+                            </MudText>
+                            <MudText Typo="TextTypo">
+                                @applicationUser.UserName
+                            </MudText>
+                        </MudStack>
+
+                    </MudPaper>
+                </MudItem>
+
+                <MudItem xs="12" sm="12" md="12">
+                    <MudPaper Elevation="SectionElevationLevel" Class="pa-3">
+                        <MudStack Row="true">
+                            <MudText Typo="TextTypo" Class="SectionHeader">
+                               Email:
+                            </MudText>
+                            <MudText Typo="TextTypo">
+                                @applicationUser.Email
+                            </MudText>
+                        </MudStack>
+
+                    </MudPaper>
+                </MudItem>
+                <MudItem xs="12" sm="12" md="6">
+                    <MudPaper Elevation="SectionElevationLevel" Class="pa-3">
+                        <MudStack Row="true">
+                            <MudText Typo="TextTypo" Class="SectionHeader">
+                              Country:
+                            </MudText>
+                            <MudText Typo="TextTypo">
+                                @applicationUser.Country
+                            </MudText>
+                        </MudStack>
+                    </MudPaper>
+                </MudItem>
+                <MudItem xs="12" sm="12" md="6">
+                    <MudPaper Elevation="SectionElevationLevel" Class="pa-3">
+                        <MudStack Row="true">
+                            <MudText Typo="TextTypo" Class="SectionHeader">
+                               Phone:
+                            </MudText>
+                            <MudText Typo="TextTypo">
+                                @applicationUser.PhoneNumber
+                            </MudText>
+                        </MudStack>
+
+                    </MudPaper>
+                </MudItem>
+
+    <MudItem xs="12" sm="12" md="6">
+        <MudPaper Elevation="SectionElevationLevel" Class="pa-3">
+            <MudStack Row="true">
+                <MudText Typo="TextTypo" Class="SectionHeader">
+                    Roles :
+                </MudText>
+                <MudText Typo="TextTypo">
+                    @applicationUser.UserRoles
+                </MudText>
+            </MudStack>
+
+        </MudPaper>
+    </MudItem>
+            </MudGrid>
+
+
+<style>
+    .SectionHeader {
+        font-weight: bolder;
+        color: cadetblue
+    }
+</style>
+@code
+{
+    private Typo TextTypo = Typo.body1;
+    private int SectionElevationLevel = 3;
+}
+

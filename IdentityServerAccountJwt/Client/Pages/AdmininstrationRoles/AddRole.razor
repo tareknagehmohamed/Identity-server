@@ -1,0 +1,46 @@
+﻿@page "/addrole"
+
+<MudContainer Style="max-height: 80vh;overflow-y: scroll;" Class="py-2">
+    <EditForm Model="@administrationRole" OnValidSubmit="AddRoleName">
+        <DataAnnotationsValidator />
+        <MudCard>
+            <MudCardContent>
+                <MudGrid>
+
+
+
+                    <MudItem xs="12" sm="12" Class="py-0">
+                        <MudTextField Label="Name"
+                                      MaxLength=50
+                                      Class="mt-4"
+                                      Immediate="false"
+                                      HelperText="Enter The Role Name"
+                                        HelperTextOnFocus
+                                      @bind-Value="administrationRole.Name"
+                                      For="@(() => administrationRole.Name)"
+                                      Variant="Variant.Outlined"
+                                      Margin="Margin.Dense" />
+
+                        </MudItem>
+           
+
+                        </MudGrid>
+
+
+
+
+                        </MudCardContent>
+                        <MudCardActions>
+                        <MudButton ButtonType="ButtonType.Submit"
+                           Variant="Variant.Filled"
+                           FullWidth
+                           Color=Color.Info>
+
+                    Add 
+
+                </MudButton>
+                </MudCardActions>
+                </MudCard>
+
+                </EditForm>
+                </MudContainer>

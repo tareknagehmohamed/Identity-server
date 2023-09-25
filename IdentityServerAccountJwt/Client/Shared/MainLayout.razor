@@ -1,0 +1,199 @@
+﻿@using IdentityServerAccountJwt.Client.Services;
+
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inherits LayoutComponentBase
+
+
+
+
+<MudLayout>
+    <MudAppBar Dense=true Elevation="1" Color="Color.Info">
+        <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
+        <MudSpacer />
+        <AuthorizeView>
+            <Authorized>
+
+                <MudTooltip Placement="Placement.Bottom"
+                                Arrow
+                            Text="Account Settings"
+                            RootStyle="width: fit-content;"
+                                Inline>
+
+                    <MudMenu Icon="@Icons.Material.Filled.AccountCircle"
+                             Color="Color.Inherit"
+                             AnchorOrigin="Origin.BottomCenter"
+                             TransformOrigin="Origin.TopRight">
+
+                        <MudStack Justify="Justify.Center"
+                                  AlignItems="AlignItems.Center"
+                                  Spacing="0"
+                                  Class="mb-3 mt-2">
+
+                            <a href="/profile/@context.User.Identity.Name"> @context.User.Identity.Name</a>
+
+                        </MudStack>
+                        <MudDivider DividerType="DividerType.FullWidth"
+                                    Class="mb-1" />
+                
+                        <MudStack Class="px-2 mt-1">
+                            <MudButton Variant="Variant.Filled"
+                                          FullWidth
+                                       Color="Color.Error"
+                                       OnClick="DoLogout">
+                                Log Out
+                            </MudButton>
+                            </MudStack>
+
+                            </MudMenu>
+                            </MudTooltip>
+            </Authorized>
+            <NotAuthorized>
+                            <MudTooltip Placement="Placement.Bottom"
+                                Arrow
+                            Text="Account Settings"
+                            RootStyle="width: fit-content;"
+                                Inline>
+
+                    <MudMenu Icon="@Icons.Material.Filled.AccountCircle"
+                             Color="Color.Inherit"
+                             AnchorOrigin="Origin.BottomCenter"
+                             TransformOrigin="Origin.TopRight">
+
+                        <MudStack Justify="Justify.Center"
+                                  AlignItems="AlignItems.Center"
+                                  Spacing="0"
+                                  Class="mb-3 mt-2">
+                            <MudButton Variant="Variant.Filled"
+                                          FullWidth
+                                       Color="Color.Info"
+                                       OnClick="DoRegister">
+                                Register
+                            </MudButton>
+
+                        </MudStack>
+                        <MudDivider DividerType="DividerType.FullWidth"
+                                    Class="mb-1" />
+                   
+                        <MudStack Class="px-2 mt-1">
+                            <MudButton Variant="Variant.Filled"
+                                          FullWidth
+                                       Color="Color.Success"
+                                       OnClick="DoLogin">
+                                Log In
+                            </MudButton>
+
+                            </MudStack>  
+                            <MudDivider DividerType="DividerType.FullWidth"
+                                    Class="mb-1" />
+                   
+                        <MudStack Class="px-2 mt-1">
+                            <MudButton Variant="Variant.Filled"
+                                          FullWidth
+                                       Color="Color.Dark"
+                                       OnClick="GoToForgotPassword">
+                                Forget Password
+                            </MudButton>
+
+                            </MudStack>
+
+                            </MudMenu>
+                            </MudTooltip>
+                      
+            </NotAuthorized>
+        </AuthorizeView>
+
+    </MudAppBar>
+    <MudDrawer DisableOverlay
+               Open=_drawerOpen
+               ClipMode="DrawerClipMode.Always"
+               Breakpoint=Breakpoint.Md
+               OpenMiniOnHover
+               Elevation="2"
+               Variant="DrawerVariant.Mini">
+        @if (_drawerOpen)
+        {
+            <MudImage Fluid
+                  Src="Images/Tarekuser.png"
+                  Alt="logo"
+                  Elevation="0"
+                  Class="mt-10 mx-3 mb-1" />
+            @*   <MudText Align="Align.Center" Typo="Typo.h5" Style="font-weight:500">@localization["TechnicalSupport"]</MudText>*@
+        }
+        <div class="side-menu">
+        <NavMenu />
+    </div>
+        <SideMenu />
+    </MudDrawer>
+    <MudMainContent Class="px-5 pt-4 mt-10" Style="padding-top:0px">
+        @Body
+    </MudMainContent>
+</MudLayout>
+
+<style>
+    .mud-tooltip-root.mud-tooltip-inline {
+        width: 100%;
+    }
+</style>
+
+@code {
+    bool _drawerOpen = true;
+    [Inject]
+    IAuthenticationRegister authenticationRegister{ get; set; } 
+    [Inject]
+    NavigationManager navigationManager { get; set; }
+
+    public bool RegistrationError { get; set; }
+    public IEnumerable<string> Errors { get; set; }
+    void DrawerToggle()
+    {
+        _drawerOpen = !_drawerOpen;
+    }
+    protected override async void OnInitialized()
+    {
+        base.OnInitialized();
+        var authState = await AuthenticationStateProvider
+            .GetAuthenticationStateAsync();
+        var identity = authState.User?.Identity;
+        if(identity !=null)
+        {
+            if(!identity.IsAuthenticated)
+                navigationManager.NavigateTo("/Login");
+            
+               
+            
+            else
+                navigationManager.NavigateTo("/Dashboard");
+        }
+    }
+    private  void DoLogout()
+    {
+       // await authenticationRegister.Logout();
+        navigationManager.NavigateTo("/Logout");
+
+    }
+
+    private async void DoRegister()
+    {
+
+        navigationManager.NavigateTo("/Register");
+
+    }
+    private async void DoLogin()
+    {
+
+        navigationManager.NavigateTo("/Login");
+
+    }
+    public void GoToForgotPassword()
+    {
+
+        navigationManager.NavigateTo("/forgot");
+
+
+    }
+
+}
+
+<MudThemeProvider />
+<MudDialogProvider />
+<MudSnackbarProvider />

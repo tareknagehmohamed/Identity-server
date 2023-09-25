@@ -1,0 +1,191 @@
+﻿@page "/userspagination"
+<PageTitle>Users</PageTitle>
+
+<div>
+    <div class="d-flex align-center justify-space-between mt-0">
+        <MudText Align="Align.Start" Typo="Typo.h5">Users</MudText>
+    </div>
+
+    <MudPaper Class="pa-4 mt-4"
+              Style="margin-bottom:10px">
+       
+        <MudButton DisableElevation
+                   Variant="Variant.Filled"
+                   StartIcon="@Icons.Material.Filled.Refresh"
+                   IconColor="Color.Surface"
+                   Color="Color.Primary"
+                   OnClick="(()=>LoadPageValue(1, true))">Refresh</MudButton>
+    </MudPaper>
+
+    <MudTable Items="@applicationUsers"
+              T="IdentityServerAccountJwt.Shared.Models.ApplicationUser"
+              Dense="true"
+              Hover="true"
+              Bordered="true"
+              Striped="true"
+              Breakpoint="Breakpoint.MdAndDown"
+              FixedHeader
+              Height="50vh"
+              Style="margin-bottom:20px"
+     RowsPerPage="PageSize">
+        <NoRecordsContent>
+            Users Not Found
+
+        </NoRecordsContent>
+         <ToolBarContent>
+         
+                         <MudTextField T=string
+                          Placeholder="Shared_Search"
+                          @bind-Value="SearchText"
+                          Immediate
+                          Adornment="Adornment.Start"
+                          AdornmentIcon="@Icons.Material.Filled.Search"
+                          IconSize="Size.Medium"
+                          AdornmentColor="Color.Default"
+                          MaxLength="50"
+                          Variant="Variant.Outlined"
+                          Margin="Margin.Dense"
+                          Clearable
+                          OnClearButtonClick="DoClearSearch"
+                          HelperTextOnFocus
+                          HelperText="enter search"
+                          OnKeyPress="DoTableSearch"
+                          Class="mt-2 mb-2">
+            </MudTextField>
+            <MudSpacer />
+            <MudSpacer />
+            <MudSpacer />
+            <MudSpacer />
+            <MudSpacer />
+            <MudSpacer />
+            <MudSpacer />
+        </ToolBarContent>
+        <HeaderContent>
+            <MudTh>User Name</MudTh>
+            <MudTh>Email</MudTh>
+            <MudTh>Roles</MudTh>
+            <MudTh>Shared_Actions</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd>@context.UserName</MudTd>
+
+            <MudTd>@context.Email</MudTd>
+            <MudTd>@context.UserRoles</MudTd>
+            <MudTd id="Active">
+                                <MudStack  Row
+                                          Justify=Justify.Center
+                                          Spacing=2>
+                          
+                                    <MudTooltip Placement="Placement.Bottom"
+                                                Arrow
+                                Text="Get User By Name"
+                                                RootStyle="width: fit-content;"
+                                                Inline>
+                                        <MudButton StartIcon="@Icons.Material.Filled.Edit"
+                                                       Size=Size.Small
+                                                       Color=Color.Primary
+                                                       Variant="Variant.Filled"
+                                   OnClick="(()=>GetUserByName(context.UserName))">
+                            Get User By Name
+                                                   </MudButton>
+                                    </MudTooltip>
+                                    <MudTooltip Placement="Placement.Bottom"
+                                                Arrow
+                                Text="Get User By Email"
+                                                RootStyle="width: fit-content;"
+                                                Inline>
+                                        <MudButton StartIcon="@Icons.Material.Filled.Delete"
+                                                       Color=Color.Error
+                                                       Size=Size.Small
+                                                       Variant="Variant.Filled"
+                                   OnClick="(()=>GetUserByEmail(context.Email))">
+                            Get User By Email
+                                                   </MudButton>
+                                    </MudTooltip>
+                    <MudTooltip Placement="Placement.Bottom"
+                                        Arrow
+                                Text="Manage Roles"
+                                RootStyle="width: fit-content;"
+                                        Inline>
+                        <MudButton StartIcon="@Icons.Material.Filled.Cyclone"
+                                   Color=Color.Dark
+                                   Size=Size.Small
+                                   Variant="Variant.Filled"
+                                   OnClick="(()=>GetUserRoles(context.Id))">
+                            Manage Roles
+                        </MudButton>
+                    </MudTooltip>
+                                </MudStack>
+                            </MudTd>
+        </RowTemplate>
+                <PagerContent>
+
+            @if (applicationUsers.Count> 0)
+            {
+                <MudGrid Class="py-3">
+                    <MudItem xs="12" sm="12" md="12">
+                        <MudStack Row
+                              Justify="Justify.Center"
+                              AlignItems="AlignItems.Center">
+                            <MudPagination Size="Size.Medium"
+                                       Variant="Variant.Filled"
+                                       Count="@(Convert.ToInt32(Math.Ceiling(TotalPageCount)))"
+                                       Selected="CurrentPage"
+                                       SelectedChanged="DoLoadPageValue" />
+
+                            <MudStack Row
+                                  AlignItems="AlignItems.Center"
+                                  Justify="Justify.Center">
+
+                            <MudText Typo="Typo.body1">Shared_PageSize  </MudText>
+                                <div Style="width:100px">
+                                    <MudSelect T="int"
+                                           AnchorOrigin="Origin.BottomCenter"
+                                           Variant="Variant.Outlined"
+                                           Margin="Margin.Dense"
+                                           ValueChanged="DoChanePageSize"
+                                           Value="PageSize"
+                                           FullWidth=false
+                                           Clearable=false>
+                                    <MudSelectItem Value="10">10</MudSelectItem>
+                                    <MudSelectItem Value="20">20</MudSelectItem>
+                                    <MudSelectItem Value="30">30</MudSelectItem>
+                                    <MudSelectItem Value="50">50</MudSelectItem>
+                                    </MudSelect>
+                                </div>
+
+                            </MudStack>
+                        </MudStack>
+                    </MudItem>
+
+                </MudGrid>
+            }
+        </PagerContent>
+    </MudTable>
+</div>
+                 <style>
+                  /*  #Active{
+                        background:#F5F5F5;
+                    }*/
+                    .mud-table-striped .mud-table-container .mud-table-root .mud-table-body .mud-table-row:nth-of-type(even){
+                         background-color:#F1F1F1;
+                    }
+                    .mud-table-striped .mud-table-container .mud-table-root .mud-table-body .mud-table-row:nth-of-type(even) td{
+                         color:#000
+                    }
+                    .mud-table-striped .mud-table-container .mud-table-root .mud-table-body .mud-table-row:nth-of-type(even):hover{
+                          background-color:#F1F1F1;
+                    }
+                    .mud-table-root .mud-table-body:last-child .mud-table-row:last-child .mud-table-cell{
+                          border-bottom:1px solid #ffffff1e;
+                    }
+                    .mud-table-cell{
+                          border: 1px solid #ffffff1e;
+                    }
+                    #info_button{
+                          background:#17a2b8;
+                    }
+                    #info_button span.mud-button-label{
+                          color:#fff;
+                    }
+                </style>

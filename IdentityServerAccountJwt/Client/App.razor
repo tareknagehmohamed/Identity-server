@@ -1,0 +1,26 @@
+﻿<CascadingAuthenticationState>
+<Router AppAssembly="@typeof(App).Assembly">
+    <Found Context="routeData">
+            <AuthorizeRouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)">
+            <Authorizing>
+                Please Wait To Ensure From Acess
+            </Authorizing>
+            <NotAuthorized>
+                    <MudImage Fluid
+                              Src="Images/access.png"
+                              Alt="sorry you are not allowed to access this page"
+                              Elevation="0"
+                              Class="mt-10 mx-3 mb-1" />
+            </NotAuthorized>
+        </AuthorizeRouteView>
+        <FocusOnNavigate RouteData="@routeData" Selector="h1" />
+    </Found>
+    <NotFound>
+        <PageTitle>Not found</PageTitle>
+            <LayoutView Layout="@typeof(MainLayout)">
+           <p role="alert">Sorry, there's nothing at this address.</p>
+            
+        </LayoutView>
+    </NotFound>
+</Router>
+</CascadingAuthenticationState>

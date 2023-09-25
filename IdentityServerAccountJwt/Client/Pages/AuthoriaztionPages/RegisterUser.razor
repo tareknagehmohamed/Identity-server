@@ -1,0 +1,96 @@
+﻿@page "/Register"
+
+@if (IsError)
+{
+    @foreach (var error in Errors)
+    {
+        <h3>@error</h3>
+    }
+    
+}
+<MudContainer Style="max-height: 80vh;overflow-y: scroll;" Class="py-2">
+    <EditForm Model="@userRegister" OnValidSubmit="RegisterModel">
+        <DataAnnotationsValidator />
+        <MudCard>
+            <MudCardContent>
+                <MudGrid>
+
+
+
+                    <MudItem xs="12" sm="12" Class="py-0">
+                        <MudTextField Label="UserName"
+                                      MaxLength=50
+                                      Class="mt-4"
+                                      Immediate="false"
+                                      HelperText="Enter Your UserNmae"
+                                        HelperTextOnFocus
+                                      @bind-Value="userRegister.UserName"
+                                      For="@(() => userRegister.UserName)"
+                                      Variant="Variant.Outlined"
+                                      Margin="Margin.Dense"/>
+
+                        </MudItem>
+                        <MudItem xs="12" sm="12" Class="py-0">
+                        <MudTextField Label="Email"
+                                      MaxLength=50
+                                      Class="mt-4"
+                                      Immediate="false"
+                                      HelperText="Enter Your Email"
+                                        HelperTextOnFocus
+                                      @bind-Value="userRegister.Email"
+                                      For="@(() => userRegister.Email)"
+                                      Variant="Variant.Outlined"
+                                      Margin="Margin.Dense" />
+
+                        </MudItem>
+                        <MudItem xs="12" sm="12" Class="py-0">
+                        <MudTextField Label="Password"
+                                      MaxLength=50
+                                      Class="mt-4"
+                                      Immediate="false"
+                                      HelperText="Enter Your Password"
+                                        HelperTextOnFocus
+                                      @bind-Value="userRegister.Password"
+                                      For="@(() => userRegister.Password)"
+                                      Variant="Variant.Outlined"
+                                      Margin="Margin.Dense" />
+
+                        </MudItem>
+                        <MudItem xs="12" sm="12" Class="py-0">
+                        <MudTextField Label="Confirm Password"
+                                      MaxLength=50
+                                      Class="mt-4"
+                                      Immediate="false"
+                                      HelperText="Enter Your Confirm Password"
+                                        HelperTextOnFocus
+                                      @bind-Value="userRegister.ConfirmPassword"
+                                      For="@(() => userRegister.ConfirmPassword)"
+                                      Variant="Variant.Outlined"
+                                      Margin="Margin.Dense" />
+
+                        </MudItem>
+                        <MudItem xs="12" sm="6" Class="py-0">
+                        <MudSwitch @bind-Checked="userRegister.IsActive"
+                                   Label="@(userRegister.IsActive?"Active User":"InActive User")"
+                                   Color="Color.Success" />
+                        </MudItem>
+                        </MudGrid>
+
+
+
+
+                        </MudCardContent>
+                        <MudCardActions>
+                        <MudButton ButtonType="ButtonType.Submit"
+                           Variant="Variant.Filled"
+                           FullWidth
+                           Color=Color.Success>
+                
+                      Register
+             
+                </MudButton>
+            </MudCardActions>
+        </MudCard>
+
+    </EditForm>
+</MudContainer>

@@ -1,0 +1,10 @@
+﻿<AuthorizeView>
+    <Authorized>
+        <a href="/profile/@context.User.Identity.Name">Welcom @context.User.Identity.Name</a>
+        <a href="Logout">Logout</a>
+   </Authorized>
+    <NotAuthorized>
+        <a href="Register">Register</a>
+        <a href="Login">Login</a>
+   </NotAuthorized>
+</AuthorizeView>

@@ -1,0 +1,303 @@
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Client.staticwebassets.runtime.json
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\appsettings.Development.json
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\appsettings.json
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.staticwebassets.runtime.json
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.exe
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.deps.json
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.runtimeconfig.json
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.pdb
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Humanizer.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Client.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Shared.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Client.pdb
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Shared.pdb
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.csproj.AssemblyReference.cache
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.AssemblyInfoInputs.cache
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.AssemblyInfo.cs
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.csproj.CoreCompileInputs.cache
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.RazorAssemblyInfo.cache
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.RazorAssemblyInfo.cs
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.IdentityServerAccountJwt.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.IdentityServerAccountJwt.Server.props
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IdentityServerAccountJwt.Server.props
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IdentityServerAccountJwt.Server.props
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets.build.json
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets.development.json
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\scopedcss\bundle\IdentityServerAccountJwt.Server.styles.css
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.csproj.CopyComplete
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\refint\IdentityServerAccountJwt.Server.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.pdb
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.genruntimeconfig.cache
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\ref\IdentityServerAccountJwt.Server.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\MudBlazor.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Split String\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Client.staticwebassets.runtime.json
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.staticwebassets.runtime.json
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.exe
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.deps.json
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.runtimeconfig.json
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.pdb
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Client.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Shared.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Client.pdb
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Shared.pdb
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.csproj.AssemblyReference.cache
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.AssemblyInfoInputs.cache
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.AssemblyInfo.cs
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.csproj.CoreCompileInputs.cache
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.RazorAssemblyInfo.cache
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.RazorAssemblyInfo.cs
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.IdentityServerAccountJwt.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.IdentityServerAccountJwt.Server.props
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IdentityServerAccountJwt.Server.props
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IdentityServerAccountJwt.Server.props
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\scopedcss\bundle\IdentityServerAccountJwt.Server.styles.css
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.csproj.CopyComplete
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\refint\IdentityServerAccountJwt.Server.dll
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.pdb
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.genruntimeconfig.cache
+C:\Users\SOFT\source\repos\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\ref\IdentityServerAccountJwt.Server.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Client.staticwebassets.runtime.json
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.staticwebassets.runtime.json
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.exe
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.deps.json
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.runtimeconfig.json
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Server.pdb
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Client.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Shared.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Client.pdb
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\bin\Debug\net6.0\IdentityServerAccountJwt.Shared.pdb
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.csproj.AssemblyReference.cache
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.AssemblyInfoInputs.cache
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.AssemblyInfo.cs
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.csproj.CoreCompileInputs.cache
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.RazorAssemblyInfo.cache
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.RazorAssemblyInfo.cs
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.IdentityServerAccountJwt.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.IdentityServerAccountJwt.Server.props
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IdentityServerAccountJwt.Server.props
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IdentityServerAccountJwt.Server.props
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\scopedcss\bundle\IdentityServerAccountJwt.Server.styles.css
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.csproj.CopyComplete
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\refint\IdentityServerAccountJwt.Server.dll
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.pdb
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\IdentityServerAccountJwt.Server.genruntimeconfig.cache
+C:\Users\programmer18\Desktop\اسلامي\IdentityServerAccountJwt\IdentityServerAccountJwt\Server\obj\Debug\net6.0\ref\IdentityServerAccountJwt.Server.dll

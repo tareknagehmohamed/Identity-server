@@ -1,0 +1,101 @@
+﻿@page "/Dashboard"
+
+<AuthorizeView>
+    <Authorized>
+        <div>
+
+            <MudText Typo="Typo.h6" Style="font-weight:bold" Class="mt-10">User Dashboard</MudText>
+            <MudGrid Spacing="2">
+          
+
+                <MudItem xs="12" sm="12" md="6">
+                    <MudPaper Class="px-2 py-5 "
+                              Style="color:white;background-color:lightgreen">
+                        <MudIcon Icon="@Icons.Filled.SupervisedUserCircle" Title="Favorite" />
+
+                        <MudStack AlignItems="AlignItems.Center"
+                                  Justify="Justify.Center">
+                            <MudText Typo="Typo.h2">@dashboarddata.UsersActiveCount.ToString()</MudText>
+
+                            <MudText Typo="Typo.h5">Active Users</MudText>
+
+                        </MudStack>
+
+                    </MudPaper>
+                </MudItem>
+                <MudItem xs="12" sm="12" md="6">
+                    <MudPaper Class="px-2 py-5"
+                              Style="color:white;background-color:indianred">
+                        <MudIcon Icon="@Icons.Filled.VerifiedUser" Title="Favorite" />
+
+                        <MudStack AlignItems="AlignItems.Center"
+                                  Justify="Justify.Center">
+                            <MudText Typo="Typo.h2">@dashboarddata.UsersInActiveCount.ToString()</MudText>
+                            <MudText Typo="Typo.h5">In Active Users</MudText>
+
+                        </MudStack>
+
+                    </MudPaper>
+                </MudItem>
+                <MudCarousel Class="mud-width-full" Style="height:200px;" ShowArrows="@arrows" ShowBullets="@bullets" EnableSwipeGesture="@enableSwipeGesture" AutoCycle="@autocycle" TData="object">
+                    <MudCarouselItem Transition="transition" Color="Color.Primary">
+                        <div class="d-flex justify-content-center" style="height:100%">
+                            <MudText Align="Align.Center" Typo="Typo.h6" Style="color:white;justify-content-center">Thank You To Deal With Us</MudText>
+                        </div>
+                    </MudCarouselItem>
+                    <MudCarouselItem Transition="transition" Color="@Color.Primary">
+                        <div class="d-flex justify-content-center" style="height:100%">
+                            <MudStack>
+                                <MudText Align="Align.Center" Typo="Typo.h6" Style="color:white;justify-content-center">Contact Us On</MudText>
+                               <MudStack Row Class="mt-5">
+                                    <MudIcon Class="mx-auto my-auto" Icon="@Icons.Material.Filled.Email" Size="@Size.Large" />
+                                    <MudText Align="Align.Center" Typo="Typo.body2" Style="color:white;justify-content-center">wmam158@gmail.com</MudText>
+
+                               </MudStack>
+
+                            </MudStack>
+                        </div>
+                    </MudCarouselItem>
+
+                </MudCarousel>
+
+                
+
+
+
+                <MudItem xs="12" sm="12" md="12">
+
+                    <Animate Animation="Animations.ZoomIn" Duration="TimeSpan.FromSeconds(0.5)" Delay="TimeSpan.FromSeconds(1)">
+                        <MudText Align="Align.Center"
+                                 Typo="Typo.h6">
+                                <MudImage Style="align-content:center" Src="Images/Tarekuser.png" Width="50" Height="50" Alt="Swedish Farm House" Elevation="25" Class="rounded-lg ma-4" />                   Welcome To Users
+                        </MudText>
+                    </Animate>
+
+                </MudItem>
+                <MudItem xs="12" sm="12" md="12">
+
+                    <Animate Animation="Animations.ZoomIn" Duration="TimeSpan.FromSeconds(0.5)" Delay="TimeSpan.FromSeconds(1)">
+                        <MudButton Class="centered-button"
+                                   OnClick="GoToUsers"
+                                          FullWidth
+                                   ButtonType="ButtonType.Submit"
+                                   Variant="Variant.Filled"
+                                   Color="Color.Primary">
+                            Go To Users Page
+                        </MudButton>
+                        </Animate>
+
+                        </MudItem>
+                        </MudGrid>
+
+                    </div>
+    </Authorized>
+    <NotAuthorized>
+                    <div class="d-flex align-center justify-space-between mt-0">
+                        <MudImage Style="margin:auto" Src="Images/access.png" Width="332" Height="250" Alt="Swedish Farm House" Elevation="25" Class="rounded-lg ma-4" />
+
+                    </div>
+    </NotAuthorized>
+</AuthorizeView>
+     
